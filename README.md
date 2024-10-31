@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 # 💫 About Me:
-Tech Stack: "🌐 Web developer |Html,C++, Python, and React enthusiast."<br>Projects: "🔧 Open-source contributor | Check out my latest projects below!"<br>Interests: "🚀 Passionate about AI and machine learning."<br>Learning Goals: "📚 Currently learning TypeScript and GraphQL."<br>Fun Fact: "🎨 Coding by day, painting by night!"
+Tech Stack: "🌐 Html,C++, Python, and React enthusiast."<br>Projects: "🔧 Open-source contributor | Check out my latest projects below!"<br>Interests: "🚀 Passionate about AI and machine learning."<br>Learning Goals: "📚 Currently learning TypeScript and GraphQL."<br>Fun Fact: "🎨 Coding by day, painting by night!"
 
 
 
