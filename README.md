@@ -1,11 +1,5 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
-# 💫 About Me:
-Tech Stack: "🌐 Html, C++, Python, and React enthusiast."<br>Projects: "🔧 Open-source contributor | Check out my latest projects below!"<br>Interests: "🚀 Passionate about AI and machine learning."<br>Learning Goals: "📚 Currently learning TypeScript and GraphQL."<br>Fun Fact: "🎨 Coding by day, painting by night!"
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mitsuki190&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
-</br>
-
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Shuhaib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuhaibeyyy)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/MItsuki) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/MItski) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Lost) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Shuhaib) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@oxidaiski) 
@@ -22,8 +16,11 @@ Tech Stack: "🌐 Html, C++, Python, and React enthusiast."<br>Projects: "🔧 O
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mitsuki190&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mitsuki190&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
+</br>
 
 <br/><br/>
+</br>
 
 <hr/>
 
@@ -52,7 +49,3 @@ Tech Stack: "🌐 Html, C++, Python, and React enthusiast."<br>Projects: "🔧 O
 
 </details>
 </br></br>
-
-
-
-
