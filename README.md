@@ -16,7 +16,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Mitsuki190&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mitsuki190&label=Visitors%20count&color=10d9c3&style=plastic" alt="A-S-W-I-N-S-P-A-R-K-Y" /> </p>
+<p align="center"> <img src="https://count.getloli.com/get/@:%20Mitski190" alt="Mitski" /> </p>
 </br>
 
 <br/><br/>
@@ -45,7 +45,6 @@
 </div>
 
 <br/>
-
 
 </details>
 </br></br>
