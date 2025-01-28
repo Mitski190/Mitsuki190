@@ -18,7 +18,7 @@
 </div>
 <p align="center"> <img src="https://count.getloli.com/get/@:%20Mitski190" alt="Mitski" /> </p>
 
-<p align="center"> <img src="https://count.getloli.com/get/@:%20Mitski190" alt="Mitski"theme=gelbooru /> </p>
+
 
 
 </br>
